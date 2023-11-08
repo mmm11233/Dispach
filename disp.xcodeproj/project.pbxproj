@@ -13,6 +13,7 @@
 		3971130B2AFC10460059FB97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 397113092AFC10460059FB97 /* Main.storyboard */; };
 		3971130D2AFC10460059FB97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3971130C2AFC10460059FB97 /* Assets.xcassets */; };
 		397113102AFC10460059FB97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3971130E2AFC10460059FB97 /* LaunchScreen.storyboard */; };
+		397113182AFC105C0059FB97 /* FactorialCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 397113172AFC105C0059FB97 /* FactorialCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3971130C2AFC10460059FB97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3971130F2AFC10460059FB97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		397113112AFC10460059FB97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		397113172AFC105C0059FB97 /* FactorialCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorialCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				397113032AFC10460059FB97 /* AppDelegate.swift */,
 				397113052AFC10460059FB97 /* SceneDelegate.swift */,
 				397113072AFC10460059FB97 /* ViewController.swift */,
+				397113172AFC105C0059FB97 /* FactorialCalculator.swift */,
 				397113092AFC10460059FB97 /* Main.storyboard */,
 				3971130C2AFC10460059FB97 /* Assets.xcassets */,
 				3971130E2AFC10460059FB97 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				397113082AFC10460059FB97 /* ViewController.swift in Sources */,
 				397113042AFC10460059FB97 /* AppDelegate.swift in Sources */,
+				397113182AFC105C0059FB97 /* FactorialCalculator.swift in Sources */,
 				397113062AFC10460059FB97 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
